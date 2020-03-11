@@ -1,0 +1,8 @@
+#jumbotron{
+  background-size: cover;
+  background-image: url(jumbotron.png) ;
+  color: azure;
+}
+#jumbotron p{
+  font-size: small;
+}
